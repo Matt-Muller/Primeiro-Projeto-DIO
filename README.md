@@ -2,7 +2,6 @@
 Primeiro Repositório DIO - Introdução à Git/GitHub
 
 # **Principais comandos** para utilizar terminais:
-## Terminais Windows
 - "cd" - exibe o diretório atual
 - "dir" - lista os arquivos no diretório atual
 - "mkdir" - cria um diretório
